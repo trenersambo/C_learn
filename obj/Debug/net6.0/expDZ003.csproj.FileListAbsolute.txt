@@ -1,0 +1,15 @@
+D:\Front_Work\sem4\expDZ003\bin\Debug\net6.0\expDZ003.exe
+D:\Front_Work\sem4\expDZ003\bin\Debug\net6.0\expDZ003.deps.json
+D:\Front_Work\sem4\expDZ003\bin\Debug\net6.0\expDZ003.runtimeconfig.json
+D:\Front_Work\sem4\expDZ003\bin\Debug\net6.0\expDZ003.dll
+D:\Front_Work\sem4\expDZ003\bin\Debug\net6.0\expDZ003.pdb
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.csproj.AssemblyReference.cache
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.AssemblyInfoInputs.cache
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.AssemblyInfo.cs
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.csproj.CoreCompileInputs.cache
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.dll
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\refint\expDZ003.dll
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.pdb
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\expDZ003.genruntimeconfig.cache
+D:\Front_Work\sem4\expDZ003\obj\Debug\net6.0\ref\expDZ003.dll
