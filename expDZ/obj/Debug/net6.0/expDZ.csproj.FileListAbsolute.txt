@@ -1,0 +1,15 @@
+D:\Front_Work\sem5\expDZ\bin\Debug\net6.0\expDZ.exe
+D:\Front_Work\sem5\expDZ\bin\Debug\net6.0\expDZ.deps.json
+D:\Front_Work\sem5\expDZ\bin\Debug\net6.0\expDZ.runtimeconfig.json
+D:\Front_Work\sem5\expDZ\bin\Debug\net6.0\expDZ.dll
+D:\Front_Work\sem5\expDZ\bin\Debug\net6.0\expDZ.pdb
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.csproj.AssemblyReference.cache
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.AssemblyInfoInputs.cache
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.AssemblyInfo.cs
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.csproj.CoreCompileInputs.cache
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.dll
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\refint\expDZ.dll
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.pdb
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\expDZ.genruntimeconfig.cache
+D:\Front_Work\sem5\expDZ\obj\Debug\net6.0\ref\expDZ.dll
