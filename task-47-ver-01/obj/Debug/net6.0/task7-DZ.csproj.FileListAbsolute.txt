@@ -1,0 +1,15 @@
+D:\Front_Work\predSem-07\task7-DZ\bin\Debug\net6.0\task7-DZ.exe
+D:\Front_Work\predSem-07\task7-DZ\bin\Debug\net6.0\task7-DZ.deps.json
+D:\Front_Work\predSem-07\task7-DZ\bin\Debug\net6.0\task7-DZ.runtimeconfig.json
+D:\Front_Work\predSem-07\task7-DZ\bin\Debug\net6.0\task7-DZ.dll
+D:\Front_Work\predSem-07\task7-DZ\bin\Debug\net6.0\task7-DZ.pdb
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.csproj.AssemblyReference.cache
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.AssemblyInfoInputs.cache
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.AssemblyInfo.cs
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.csproj.CoreCompileInputs.cache
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.dll
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\refint\task7-DZ.dll
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.pdb
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\task7-DZ.genruntimeconfig.cache
+D:\Front_Work\predSem-07\task7-DZ\obj\Debug\net6.0\ref\task7-DZ.dll
