@@ -1,0 +1,15 @@
+D:\Front_Work\predSem-07\task7-DZ-52\bin\Debug\net6.0\task7-DZ-52.exe
+D:\Front_Work\predSem-07\task7-DZ-52\bin\Debug\net6.0\task7-DZ-52.deps.json
+D:\Front_Work\predSem-07\task7-DZ-52\bin\Debug\net6.0\task7-DZ-52.runtimeconfig.json
+D:\Front_Work\predSem-07\task7-DZ-52\bin\Debug\net6.0\task7-DZ-52.dll
+D:\Front_Work\predSem-07\task7-DZ-52\bin\Debug\net6.0\task7-DZ-52.pdb
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.csproj.AssemblyReference.cache
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.AssemblyInfoInputs.cache
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.AssemblyInfo.cs
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.csproj.CoreCompileInputs.cache
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.dll
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\refint\task7-DZ-52.dll
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.pdb
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\task7-DZ-52.genruntimeconfig.cache
+D:\Front_Work\predSem-07\task7-DZ-52\obj\Debug\net6.0\ref\task7-DZ-52.dll
