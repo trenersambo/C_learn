@@ -20,7 +20,7 @@ Console.WriteLine("Решение трех домашних задач для С
 
 //=========решение 54 ===============
 
-/*
+ 
 // 1. Метод создания 2х мерного массива
 int[,] Create2dArray(int row, int column){
   int[,] array = new int[row, column];
@@ -82,7 +82,8 @@ ArrSort(myArray);
 Console.WriteLine("Массив после автосортировки:");
 PrintArray(myArray);
 
-*/
+
+
 
 // =========== Задача 56: ==================
 // Задайте прямоугольный двумерный массив.
@@ -98,8 +99,9 @@ PrintArray(myArray);
 Сумма элементов 3-ой строки: 16
 Сумма элементов 4-ой строки: 17
 Номер строки с наименьшей суммой элементов: 2
+ 
 */
-
+ 
 // 1. Метод создания 2х мерного массива
 int[,] CreateArray(int row, int col) {
     int[,] newArray = new int[row, col];
@@ -165,3 +167,83 @@ for (int i = 1; i < sumArray.Length; i++){
 }
 
 Console.Write($"Номер строки,где сумма значений наименьшая: {minIdx + 1} \n");
+
+ 
+
+//============  Задача № 62. =====================
+
+// Напишите программу, которая заполнит спирально массив 4 на 4.
+// Например, на выходе получается вот такой массив:
+// 01 02 03 04
+// 12 13 14 05
+// 11 16 15 06
+// 10 09 08 07
+
+ // ========= запрос данных =========
+Console.Write("Cтрок в массиве, не менее2-х: ");
+int rows = Convert.ToInt32(Console.ReadLine());
+Console.Write("Столбцов в массиве, не менее2-х: ");
+int column = Convert.ToInt32(Console.ReadLine());
+ 
+
+//Печать массива 
+
+
+void ShowArr(int[,] arr)
+{
+for (int i = 0; i < arr.GetLength(0); i++) {
+    for (int j = 0; j < arr.GetLength(1); j++){
+
+        Console.Write($"{arr[i, j], 3} ");
+
+    }
+    Console.WriteLine();
+}
+}
+
+ //массив заполить по переметру
+int SpirallArr(int[,] newArray, int count, int iElm, int jElm) {
+ 
+    for (int j = jElm; j < column; j++){
+        if (newArray[iElm, j] == 0) newArray[iElm, j] = count; /*слева направо*/
+        count++;
+    }
+    
+    for (int i = iElm + 1; i < rows; i++){
+        if (newArray[i, column - 1] == 0) newArray[i, column - 1] = count; // заполнение стороны
+        count++;
+    }
+ 
+    for (int j = column - 2; j >= jElm; j--) {              //?
+        if (newArray[rows - 1, j] == 0) newArray[rows - 1, j] = count;
+        count++; // ==
+    }
+ 
+    for (int i = rows - 2; i > iElm; i--){                 //????
+        if (newArray[i, jElm] == 0) newArray[i, jElm] = count; //на верх 
+          count++;
+    }
+   
+    return count;
+}
+// расчеты Console()
+// int //
+
+int[,] spirAddArray = new int[rows, column];
+int iBegin = 0;
+ int jBegin = 0;
+int value = 1;
+
+
+// цикл  заполнения
+while (rows > 1 & column > 1)
+{
+    value = SpirallArr(spirAddArray, value, iBegin, jBegin);
+    iBegin++;
+      jBegin++;
+     rows--;
+      column--;
+   
+}
+ 
+ShowArr(spirAddArray);
