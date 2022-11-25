@@ -1,0 +1,15 @@
+D:\Front_Work\sem-09-dz\dz64\bin\Debug\net6.0\dz64.exe
+D:\Front_Work\sem-09-dz\dz64\bin\Debug\net6.0\dz64.deps.json
+D:\Front_Work\sem-09-dz\dz64\bin\Debug\net6.0\dz64.runtimeconfig.json
+D:\Front_Work\sem-09-dz\dz64\bin\Debug\net6.0\dz64.dll
+D:\Front_Work\sem-09-dz\dz64\bin\Debug\net6.0\dz64.pdb
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.csproj.AssemblyReference.cache
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.AssemblyInfoInputs.cache
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.AssemblyInfo.cs
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.csproj.CoreCompileInputs.cache
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.dll
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\refint\dz64.dll
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.pdb
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\dz64.genruntimeconfig.cache
+D:\Front_Work\sem-09-dz\dz64\obj\Debug\net6.0\ref\dz64.dll
